@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <title></title>
-  <link rel="" href=""https://yandex.ru/images/search?from=tabbar&text=котики />
+  <link rel=href=""https://yandex.ru/images/search?from=tabbar&text=котики />
 </head>
 <body>
-  
+  {% url <href=""https://yandex.ru/images/search?from=tabbar&text=котики> %}.
 </body>
 </html>
